@@ -1,4 +1,4 @@
-# 💫 Hi! It's Raka with a T :,) :
+# 💫 Hi! I'm Raka with a T :,) :
 ~I'm an undergraduate student of CSE in Brac University<br>~I'm currently learning Data Structures and Algorithms in Java<br>~I love to explore things that interest me<br>~coding enthusiast 
 
 
