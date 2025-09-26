@@ -1,5 +1,5 @@
 # 💫 Hi! I'm Raka with a T :,) :
-~I'm an undergraduate student of CSE in Brac University<br>~I'm currently learning Data Structures and Algorithms in Java<br>~I love to explore things that interest me<br>~coding enthusiast 
+~ CS undergrad @ Brac University<br>~ I'm currently learning Web Development & App Development<br>~ I love to explore things that interest me<br>~ coding enthusiast 
 
 
 ## 🌐 Socials:
