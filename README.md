@@ -1,5 +1,5 @@
 # 💫 Hi! I'm Raka with a T :,) :
-~ CS undergrad @ Brac University<br>~ I'm currently learning Web Development & App Development<br>~ I love to explore things that interest me<br>~ coding enthusiast 
+~ CS undergrad @ Brac University<br>~ I'm currently learning Web Development & AI and ML<br>~ I love to explore things that interest me<br>~ coding enthusiast 
 
 
 ## 🌐 Socials:
