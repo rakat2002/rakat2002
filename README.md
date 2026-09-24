@@ -1,16 +1,81 @@
-## Hi there 👋
+<!-- ============================================================
+     WREN'S SPACE — GitHub Profile README
+     Replace username occurrences below (currently: rakat2002)
+     with your actual GitHub username if this is wrong.
+============================================================= -->
 
-<!--
-**rakat2002/rakat2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="./download.jpg" width="760"/>
+<!-- 🔧 REPLACE: swap hero.svg for your own asset later if you want —
+     just keep the filename/path the same, or update the src above. -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=700&color=E75480&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+Brac+University;Learning+Web+Dev+%26+AI%2FML;Curious+explorer+%E2%80%A2+coding+enthusiast" alt="Typing SVG"/>
+
+</div>
+
+<br>
+
+## 🌸 About Me
+
+Hey I'm **Wren**
+but You can call me **Raka** ...
+
+- CS undergrad @ Brac University
+- Currently learning Web Development & AI/ML
+- I love to explore things that interest me
+- Coding enthusiast
+
+<br>
+
+## Currently In My Terminal
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2000&pause=500&color=D6336C&center=true&vCenter=true&width=560&lines=%3E+learning...;%3E+building...;%3E+debugging...;%3E+drinking+coffee...;%3E+repeating..." alt="terminal typing"/>
+
+</div>
+
+<br>
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,python,mysql,git,figma&theme=light" />
+<!-- 🔧 REPLACE/ADD: swap the "i=" list for whatever languages, frameworks
+     and tools you actually use. Full icon list: https://skillicons.dev -->
+
+</div>
+
+<br>
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rakat2002&show_icons=true&theme=radical&bg_color=1c1220&title_color=ff9ecb&icon_color=e75480&text_color=e8d4de&border_color=5c2a44&border_radius=10&hide_title=false" width="48.5%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakat2002&theme=radical&background=1c1220&border=5c2a44&stroke=5c2a44&ring=e75480&fire=ff9ecb&currStreakLabel=ff9ecb&border_radius=10" width="48.5%"/>
+<!-- 🔧 REPLACE: "rakat2002" in both URLs above with your GitHub username -->
+
+</div>
+
+<br>
+
+## Socials
+
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-2a1c22?style=for-the-badge&logo=linkedin&logoColor=e75480"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-2a1c22?style=for-the-badge&logo=instagram&logoColor=e75480"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Pinterest-2a1c22?style=for-the-badge&logo=pinterest&logoColor=e75480"/></a>
+<a href="mailto:#"><img src="https://img.shields.io/badge/Email-2a1c22?style=for-the-badge&logo=gmail&logoColor=e75480"/></a>
+<!-- 🔧 REPLACE: every # above with your real profile URL / mailto address -->
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>✦ powered by coffee, curiosity & questionable debugging decisions ☕ — Wren's Space ✦</sub>
+</div>
