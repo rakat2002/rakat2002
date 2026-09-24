@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="./download.jpg" width="760"/>
+<img src="./hero (1).svg" width="760"/>
 <!-- 🔧 REPLACE: swap hero.svg for your own asset later if you want —
      just keep the filename/path the same, or update the src above. -->
 
@@ -51,6 +51,7 @@ but You can call me **Raka** ...
 <br>
 
 ## GitHub Activity
+<img src="https://raw.githubusercontent.com/rakat2002/rakat2002/output/github-contribution-grid-snake-dark.svg" />
 
 <div align="center">
 
