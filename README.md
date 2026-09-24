@@ -42,7 +42,7 @@ but You can call me **Raka** ...
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,python,mysql,git,figma&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,python,mysql,git,figma&theme=light" />
 <!-- 🔧 REPLACE/ADD: swap the "i=" list for whatever languages, frameworks
      and tools you actually use. Full icon list: https://skillicons.dev -->
 
@@ -54,7 +54,7 @@ but You can call me **Raka** ...
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rakat2002&show_icons=true&theme=radical&bg_color=1c1220&title_color=ff9ecb&icon_color=e75480&text_color=e8d4de&border_color=5c2a44&border_radius=10&hide_title=false" width="48.5%"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakat2002&theme=radical&background=1c1220&border=5c2a44&stroke=5c2a44&ring=e75480&fire=ff9ecb&currStreakLabel=ff9ecb&border_radius=10" width="48.5%"/>
 <!-- 🔧 REPLACE: "rakat2002" in both URLs above with your GitHub username -->
 
