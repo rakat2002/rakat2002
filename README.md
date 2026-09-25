@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="./hero (1).svg" width="760"/>
+<img src="./hero (1).svg" width="600"/>
 <!-- 🔧 REPLACE: swap hero.svg for your own asset later if you want —
      just keep the filename/path the same, or update the src above. -->
 
