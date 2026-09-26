@@ -10,9 +10,7 @@
 <!-- 🔧 REPLACE: swap hero.svg for your own asset later if you want —
      just keep the filename/path the same, or update the src above. -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=700&color=E75480&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+Brac+University;Learning+Web+Dev+%26+AI%2FML;Curious+explorer+%E2%80%A2+coding+enthusiast" alt="Typing SVG"/>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=700&color=E75480&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Raka.;Coffee+first.+Everything+else+later.;Code.+Eat.+Sleep.+Repeat." alt="Typing SVG"/>
 
 <br>
 
