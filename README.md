@@ -67,6 +67,24 @@ Hey I'm <strong>Wren</strong> in the virtual world.. but You can call me <strong
 </div>
 
 <br>
+<h2>Featured Project</h2>
+
+<h3>Raka's Interactive Portfolio</h3>
+
+<p>
+  My personal developer portfolio-designed as an interactive VS Code-inspired
+  workspace where visitors can explore my projects, skills, experience, and
+  developer journey.
+</p>
+
+<p>
+  <code>React</code> <code>TypeScript</code> <code>Vite</code> 
+  <code>Tailwind CSS</code>
+</p>
+
+<p>
+  <a href="https://raka-portfolio-jet.vercel.app/"><strong>Live Demo →</strong></a>
+</p>
 
 ## Socials
 
@@ -83,5 +101,5 @@ Hey I'm <strong>Wren</strong> in the virtual world.. but You can call me <strong
 <br>
 
 <div align="center">
-<sub>✦ powered by coffee, curiosity & questionable debugging decisions ☕ — Wren's Space ✦</sub>
+<sub>✦ powered by coffee, curiosity & questionable debugging decisions ☕ -Wren's Space ✦</sub>
 </div>
