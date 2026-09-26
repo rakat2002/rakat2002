@@ -85,6 +85,18 @@ Hey I'm <strong>Wren</strong> in the virtual world.. but You can call me <strong
 <p>
   <a href="https://raka-portfolio-jet.vercel.app/"><strong>Live Demo →</strong></a>
 </p>
+<h3>BRAC University Club Management System</h3>
+
+<p>
+  A club management system developed for managing university clubs and
+  streamlining club-related activities.
+</p>
+
+<p>
+  ✦ <a href="https://github.com/hh-abir/bracu-club-management-sys">
+    <strong>View on GitHub →</strong>
+  </a>
+</p>
 
 ## Socials
 
