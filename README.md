@@ -18,17 +18,20 @@
 
 <br>
 
-## 🌸 About Me
+<h2>🌸 About Me</h2>
 
-Hey I'm **Wren** in the virtual world..
-but You can call me **Raka** ...
+<img src="./Idle_two-footed-jump_south.gif" width="140" align="right">
 
-- CS undergrad @ Brac University
-- Currently learning Web Development & AI/ML
-- I love to explore things that interest me
-- Coding enthusiast
+Hey I'm <strong>Wren</strong> in the virtual world.. but You can call me <strong>Raka</strong> ...
 
-<br>
+<ul>
+  <li>CS undergrad @ Brac University</li>
+  <li>Currently learning Web Development & AI/ML</li>
+  <li>I love to explore things that interest me</li>
+  <li>Coding enthusiast</li>
+</ul>
+
+<br clear="right">
 
 ## Currently In My Terminal
 
