@@ -4,13 +4,17 @@
      with your actual GitHub username if this is wrong.
 ============================================================= -->
 
+<div >
+     
 <div align="center">
-
+     
 <img src="./hero (1).svg" width="600"/>
 <!-- 🔧 REPLACE: swap hero.svg for your own asset later if you want —
      just keep the filename/path the same, or update the src above. -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=700&color=E75480&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Raka.;Coffee+first.+Everything+else+later.;Code.+Eat.+Sleep.+Repeat." alt="Typing SVG"/>
+
+</div>
 
 <br>
 
