@@ -18,7 +18,7 @@
 
 ## 🌸 About Me
 
-Hey I'm **Wren**
+Hey I'm **Wren** in the virtual world..
 but You can call me **Raka** ...
 
 - CS undergrad @ Brac University
