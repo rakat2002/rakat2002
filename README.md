@@ -102,11 +102,11 @@ Hey I'm <strong>Wren</strong> in the virtual world.. but You can call me <strong
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-2a1c22?style=for-the-badge&logo=linkedin&logoColor=e75480"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-2a1c22?style=for-the-badge&logo=instagram&logoColor=e75480"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Pinterest-2a1c22?style=for-the-badge&logo=pinterest&logoColor=e75480"/></a>
-<a href="mailto:#"><img src="https://img.shields.io/badge/Email-2a1c22?style=for-the-badge&logo=gmail&logoColor=e75480"/></a>
-<!-- 🔧 REPLACE: every # above with your real profile URL / mailto address -->
+<a href="https://www.linkedin.com/in/rjannat1311/"><img src="https://img.shields.io/badge/LinkedIn-2a1c22?style=for-the-badge&logo=linkedin&logoColor=e75480"/></a>
+<a href="https://www.instagram.com/shikamika_/"><img src="https://img.shields.io/badge/Instagram-2a1c22?style=for-the-badge&logo=instagram&logoColor=e75480"/></a>
+<a href="https://www.facebook.com/rakatejannat.raka/"><img src="https://img.shields.io/badge/Facebook-2a1c22?style=for-the-badge&logo=facebook&logoColor=e75480"/></a>
+<a href="mailto:rjannat1311@gmail.com"><img src="https://img.shields.io/badge/Email-2a1c22?style=for-the-badge&logo=gmail&logoColor=e75480"/></a>
+
 
 </div>
 
